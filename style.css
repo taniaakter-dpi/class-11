@@ -1,0 +1,17 @@
+.header .row {
+    background-image:url(./images-hw/house2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   background-attachment: scroll;
+    height:500px;
+}
+.body img{
+    width: 80%;
+    height: 80%;
+
+}
+.body-2 img{
+    width: 80%;
+    height: 80%;
+}
